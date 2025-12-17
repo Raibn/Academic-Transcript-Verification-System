@@ -1,0 +1,24 @@
+{
+  "name": "academic-transcript-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "hardhat": "^2.22.12"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "ethers": "^6.13.3",
+    "express": "^4.21.0",
+    "ipfs-http-client": "^50.1.2",
+    "jsonwebtoken": "^9.0.2",
+    "react-router-dom": "^6.26.2",
+    "web3": "^4.13.0"
+  }
+}
